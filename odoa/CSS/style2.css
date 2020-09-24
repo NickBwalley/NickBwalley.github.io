@@ -233,6 +233,6 @@ section.section7{
       transform: rotate(-45deg);
     }
     header .img-logo{
-      width: min(50vw, 200px);
+      width: min(50vw, 50px);
     } 
 }

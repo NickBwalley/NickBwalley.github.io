@@ -232,4 +232,7 @@ section.section7{
       bottom: 14px;
       transform: rotate(-45deg);
     }
+    header .img-logo{
+      width: min(50vw, 200px);
+    } 
 }

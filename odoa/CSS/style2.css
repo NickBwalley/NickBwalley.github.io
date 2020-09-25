@@ -145,6 +145,15 @@ section.section7{
   background-color: #000;
 }
 
+section.section8{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/donations1.jpg');
+  background-size: cover;
+}
+
+section.section9{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/donations2.jpg');
+  background-size: cover;
+}
 
 
 
@@ -232,6 +241,50 @@ section.section7{
       bottom: 14px;
       transform: rotate(-45deg);
     }
+
+    section.section1{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/odoa1.jpg');
+  background-size: cover;
+}
+
+section.section2{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/odoa2.jpg');
+  background-size: cover;
+}
+
+section.section3{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/odoa3.jpg');
+  background-size: cover;
+}
+
+section.section4{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/odoa4.jpg');
+  background-size: cover;
+}
+
+section.section5{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/odoa5.jpg');
+  background-size: cover;
+}
+
+section.section6{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/odoa6.jpg');
+  background-size: cover;
+}
+
+section.section7{
+  background-color: #000;
+}
+
+section.section8{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/donations1.jpg');
+  background-size: cover;
+}
+
+section.section9{
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../Images/donations2.jpg');
+  background-size: cover;
+}
 
 }
 

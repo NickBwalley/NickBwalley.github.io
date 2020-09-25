@@ -241,5 +241,8 @@ section.section9{
       bottom: 14px;
       transform: rotate(-45deg);
     }
+    section.section7 h2{
+      margin: 30px;
+    }
 }
 
